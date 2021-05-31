@@ -1,12 +1,13 @@
 /* Banner Area css
 ============================================================================================ */
-.banner_area{
-    background: url(../img/banner/banner-bg.jpg) no-repeat scroll center center;
+
+.banner_area {
+    background: url(../img/auditcaats/contacto.png) no-repeat scroll center center;
     background-size: cover;
     min-height: 352px;
     position: relative;
     z-index: 2;
-    &:before{
+    &:before {
         content: "";
         background: rgba(0, 0, 0, .6);
         position: absolute;
@@ -16,8 +17,8 @@
         height: 100%;
         z-index: -1;
     }
-    .banner_content{
-        h3{
+    .banner_content {
+        h3 {
             padding-top: 215px;
             color: #fff;
             font-size: 45px;
@@ -26,11 +27,12 @@
         }
     }
 }
-.banner_link{
+
+.banner_link {
     background: #f1f1f1;
     border-bottom: 1px solid #d3d3d3;
-    .abnner_link_inner{
-        a{
+    .abnner_link_inner {
+        a {
             font-size: 16px;
             color: #a2a1a1;
             font-family: $lato;
@@ -39,7 +41,7 @@
             line-height: 60px;
             position: relative;
             @include transition;
-            &:before{
+            &:before {
                 content: "\f105";
                 font: normal normal normal 14px/1 FontAwesome;
                 position: absolute;
@@ -48,19 +50,22 @@
                 transform: translateY(-50%);
                 color: #a2a1a1;
             }
-            &:last-child{
+            &:last-child {
                 margin-right: 0px;
             }
-            &:first-child{
-                &:before{
+            &:first-child {
+                &:before {
                     display: none;
                 }
             }
-            &:hover, &.active{
+            &:hover,
+            &.active {
                 color: $baseColor;
             }
         }
     }
 }
+
+
 /* End Banner Area css
 ============================================================================================ */

@@ -2349,6 +2349,10 @@ i:before {
     border-top: 1px solid #e5e5e5;
 }
 
+.market_option.sin-margen {
+    margin-top: 0px!important;
+}
+
 .market_option .col-sm-4:first-child .market_option_item:before {
     display: none;
 }
@@ -2537,7 +2541,7 @@ i:before {
 ============================================================================================ */
 
 .helpline_area {
-    background: url(../img/help-line-bg.jpg) no-repeat scroll center center;
+    background: url(../img/auditcaats/contact.png) no-repeat scroll center center;
     background-size: cover;
     position: relative;
     z-index: 2;
@@ -4010,7 +4014,7 @@ i:before {
 ============================================================================================ */
 
 .banner_area {
-    background: url(../img/banner/banner-bg.jpg) no-repeat scroll center center;
+    background: url(../img/auditcaats/contacto.png) no-repeat scroll center center;
     background-size: cover;
     min-height: 352px;
     position: relative;
@@ -4036,9 +4040,94 @@ i:before {
     font-weight: 600;
 }
 
+.banner_servicios {
+    background: url(../img/auditcaats/servicios.png) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 352px;
+    position: relative;
+    z-index: 2;
+}
+
+.banner_servicios:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.banner_servicios .banner_content h3 {
+    padding-top: 215px;
+    color: #fff;
+    font-size: 45px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+
+.banner_nosotros {
+    background: url(../img/auditcaats/nosotros.png) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 352px;
+    position: relative;
+    z-index: 2;
+}
+
+.banner_nosotros:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.banner_nosotros .banner_content h3 {
+    padding-top: 215px;
+    color: #fff;
+    font-size: 45px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+
+.banner_pentana {
+    background: url(../img/auditcaats/pentana.png) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 352px;
+    position: relative;
+    z-index: 2;
+}
+
+.banner_pentana:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.banner_pentana .banner_content h3 {
+    padding-top: 215px;
+    color: #fff;
+    font-size: 45px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+
 .banner_link {
     background: #f1f1f1;
     border-bottom: 1px solid #d3d3d3;
+}
+
+.center-text {
+    text-align: center;
 }
 
 .banner_link .abnner_link_inner a {
@@ -4172,7 +4261,7 @@ i:before {
 ============================================================================================ */
 
 .consult_policy_area {
-    background: url(../img/consult-bg.jpg) no-repeat scroll center center;
+    background: url(../img/auditcaats/team.png) no-repeat scroll center center;
     background-size: cover;
     position: relative;
     z-index: 2;
@@ -4656,7 +4745,7 @@ i:before {
 ============================================================================================ */
 
 .about_company .section_title {
-    padding-top: 48px;
+    /* padding-top: 48px; */
 }
 
 .about_company p {
@@ -4667,6 +4756,10 @@ i:before {
     font-family: "Lato", sans-serif;
     letter-spacing: .34px;
     padding-bottom: 35px;
+}
+
+.about_company.sin-margen p {
+    padding-bottom: 0px!important;
 }
 
 .about_company p+p {
@@ -4992,7 +5085,13 @@ i:before {
 }
 
 .challence_tab_area .tab-content .tab-pane .challence_list {
-    margin-top: 25px;
+    /* margin-top: 25px; */
+}
+
+.logo-blanco {
+    padding-top: 10px;
+    max-width: 230px;
+    /* width: 250px!important; */
 }
 
 .challence_tab_area .tab-content .tab-pane .challence_list .challence_item {
