@@ -51,8 +51,9 @@ Table of Content:
 
 /*Color Variables*/
 
-@import url("https://fonts.googleapis.com/css?family=Gilroy:300,400,400i,700,900|Montserrat:200,300,400,400i,500,500i,600,700,800,900|Open+Sans:300,400,400i,600,700,800");
+@import url("https://fonts.googleapis.com/css?family=Gilroy:300,400,400i,700,900|Quicksand:200,300,400,400i,500,500i,600,700,800,900|Open+Sans:300,400,400i,600,700,800");
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:ital,wght@0,600;1,600&family=Quicksand:wght@700&display=swap');
 .col-md-offset-right-1 {
     margin-right: 8.33333333%;
 }
@@ -158,7 +159,7 @@ i:before {
 .sec_middle_title h2 {
     font-size: 30px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .90px;
@@ -184,7 +185,7 @@ i:before {
 .section_title h2 {
     font-size: 28px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .84px;
@@ -206,7 +207,7 @@ i:before {
 .section_w_title h2 {
     font-size: 28px;
     color: #fff;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .84px;
@@ -288,7 +289,7 @@ i:before {
     color: #06244b;
     font-size: 15px;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     padding: 0px;
     letter-spacing: .45px;
@@ -440,7 +441,7 @@ i:before {
     color: #fff;
     font-size: 15px;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     padding: 0px;
     letter-spacing: .45px;
@@ -715,7 +716,7 @@ i:before {
 
 .header_contact_details .pull-right .media .media-body h4 {
     font-size: 15px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #06244b;
     letter-spacing: .45px;
@@ -724,7 +725,7 @@ i:before {
 
 .header_contact_details .pull-right .media .media-body h5 {
     font-size: 14px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     color: #767676;
     letter-spacing: .42px;
 }
@@ -761,7 +762,7 @@ i:before {
     color: #fff;
     font-size: 15px;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     padding: 0px;
     letter-spacing: .45px;
@@ -928,7 +929,7 @@ i:before {
 
 .header_contact_content .header_contact_logo .pull-right .media .media-body h4 {
     font-size: 15px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #06244b;
     letter-spacing: .45px;
@@ -937,7 +938,7 @@ i:before {
 
 .header_contact_content .header_contact_logo .pull-right .media .media-body h5 {
     font-size: 14px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     color: #767676;
     letter-spacing: .42px;
 }
@@ -985,7 +986,7 @@ i:before {
     color: #06244b;
     font-size: 15px;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     padding: 0px;
     letter-spacing: .45px;
@@ -1262,7 +1263,7 @@ i:before {
 .main_slider_area .rev_slider ul li .slider_text_box .first_text {
     color: #fff;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .main_slider_area .rev_slider ul li .slider_text_box .secand_text {
@@ -1308,7 +1309,7 @@ i:before {
 .main_btn {
     display: inline-block;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     color: #fff;
     background: #148dbf;
@@ -1369,7 +1370,7 @@ i:before {
 .main_b_btn {
     display: inline-block;
     height: 48px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     border: 1px solid #fff;
     text-align: center;
     padding: 0px 30px;
@@ -1439,7 +1440,7 @@ i:before {
     display: inline-block;
     height: 48px;
     width: 165px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     border: 1px solid #fff;
     text-align: center;
     padding: 0px;
@@ -1514,7 +1515,7 @@ i:before {
 .green_submit_btn {
     display: inline-block;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     color: #fff;
     background: #148dbf;
@@ -1580,7 +1581,7 @@ i:before {
 .b_readmore {
     display: inline-block;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     color: #06244b;
     border: 1px solid #c0c0c0;
@@ -1646,7 +1647,7 @@ i:before {
 .submit_b_btn {
     display: inline-block;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     color: #fff;
     border: none;
@@ -1783,7 +1784,7 @@ i:before {
     font-size: 16px;
     font-weight: bold;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     letter-spacing: .32px;
     padding-bottom: 8px;
@@ -1866,7 +1867,7 @@ i:before {
 
 .service_item .media .media-body h4 {
     font-size: 16px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     color: #06244b;
     letter-spacing: .32px;
     text-transform: uppercase;
@@ -1911,7 +1912,7 @@ i:before {
 }
 
 .more_link {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .384px;
     color: #148dbf;
@@ -1983,7 +1984,7 @@ i:before {
     color: #fff;
     font-size: 14px;
     text-transform: uppercase;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .42px;
     font-weight: bold;
     opacity: 0;
@@ -1995,7 +1996,7 @@ i:before {
 
 .practice_item .practice_image a h4 {
     font-size: 14px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .42px;
 }
@@ -2216,7 +2217,7 @@ i:before {
 
 .testimonials_slider .item .media .media-body h4 {
     font-size: 18px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .54px;
@@ -2323,7 +2324,7 @@ i:before {
 
 .analysis_text h3 {
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-size: 24px;
     padding-bottom: 20px;
 }
@@ -2388,7 +2389,7 @@ i:before {
 .market_option .market_option_item h4 {
     font-size: 16px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     padding: 22px 0px 10px 0px;
 }
@@ -2478,7 +2479,7 @@ i:before {
 .service_consultation_box h6 {
     font-size: 22px;
     font-family: "Gilroy", sans-serif;
-    font-style: italic;
+    /* font-style: italic; */
     color: #fff;
     max-width: 210px;
 }
@@ -2517,7 +2518,7 @@ i:before {
 .analysis_left_text h5 {
     color: #06244b;
     font-size: 24px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: 500;
     padding-bottom: 15px;
 }
@@ -2577,7 +2578,7 @@ i:before {
     text-transform: uppercase;
     color: #fff;
     font-size: 16px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     opacity: .3;
     letter-spacing: .32px;
 }
@@ -2585,7 +2586,7 @@ i:before {
 .helpline_area .helpline_inner .media .media-body h4 {
     font-size: 28px;
     color: #f4f4f4;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .84px;
     text-transform: uppercase;
@@ -2843,7 +2844,7 @@ i:before {
     font-size: 32px;
     color: #fff;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .64px;
     padding-top: 6px;
     padding-left: 60px;
@@ -3238,7 +3239,7 @@ i:before {
     padding-top: 80px;
     color: #148dbf;
     font-size: 45px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .80px;
 }
 
@@ -3246,7 +3247,7 @@ i:before {
     padding-bottom: 90px;
     font-size: 16px;
     color: #424141;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .45px;
     padding-top: 5px;
 }
@@ -3342,7 +3343,7 @@ i:before {
 
 .date h5 {
     font-size: 22px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .66px;
     padding-top: 11px;
@@ -3430,7 +3431,7 @@ i:before {
 
 .main_blog_items .main_blog_item .main_blog_text h2 {
     font-size: 20px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #06244b;
     text-transform: uppercase;
@@ -3553,7 +3554,7 @@ i:before {
 
 .r_widget_title h3 {
     font-size: 20px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     color: #06244b;
@@ -3727,7 +3728,7 @@ i:before {
 
 .two_column_sample h3 {
     font-size: 20px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #06244b;
     letter-spacing: .6px;
@@ -3816,7 +3817,7 @@ i:before {
 .s_comment_list h3 {
     font-size: 22px;
     text-transform: uppercase;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .66px;
     color: #06244b;
@@ -3913,7 +3914,7 @@ i:before {
 .s_comment_area h3 {
     font-size: 22px;
     text-transform: uppercase;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .66px;
     color: #06244b;
@@ -4041,7 +4042,7 @@ i:before {
     padding-top: 215px;
     color: #fff;
     font-size: 45px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: 600;
 }
 
@@ -4068,8 +4069,41 @@ i:before {
     padding-top: 215px;
     color: #fff;
     font-size: 45px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: 600;
+}
+
+.banner_arbutus {
+    background: url(../img/auditcaats/arb.png) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 352px;
+    position: relative;
+    z-index: 2;
+}
+
+.banner_arbutus:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.banner_arbutus .banner_content h3 {
+    padding-top: 215px;
+    color: #fff;
+    font-size: 45px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+}
+
+@media (max-width: 992px) {
+    .tab-pane {
+        display: none;
+    }
 }
 
 .banner_nosotros {
@@ -4095,7 +4129,7 @@ i:before {
     padding-top: 215px;
     color: #fff;
     font-size: 45px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: 600;
 }
 
@@ -4122,7 +4156,7 @@ i:before {
     padding-top: 215px;
     color: #fff;
     font-size: 45px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: 600;
 }
 
@@ -4314,7 +4348,7 @@ i:before {
     font-size: 17px;
     line-height: 28px;
     font-family: "Gilroy", sans-serif;
-    color: #565656;
+    color: #fcfcfc;
     letter-spacing: .34px;
     padding: 20px 0px 40px 0px;
 }
@@ -4394,7 +4428,7 @@ i:before {
 
 .error_area .error_content_inner h3 {
     font-size: 50px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: 500;
     color: #fff;
     letter-spacing: 1.5px;
@@ -4402,7 +4436,7 @@ i:before {
 
 .error_area .error_content_inner h5 {
     font-size: 25px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: normal;
     color: #fff;
     letter-spacing: .75px;
@@ -4445,7 +4479,7 @@ i:before {
     background: #f1f1f1;
     font-size: 15px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .3px;
@@ -4471,7 +4505,7 @@ i:before {
 
 .carrers_left .contact_info h2 {
     font-size: 18px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #06244b;
     text-transform: uppercase;
@@ -4614,7 +4648,7 @@ i:before {
     font-size: 20px;
     text-transform: uppercase;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     padding-bottom: 18px;
 }
@@ -4950,7 +4984,7 @@ i:before {
 
 .partner_details_inner .media .media-body h4 {
     font-size: 20px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #06244b;
     letter-spacing: .40px;
@@ -5052,7 +5086,7 @@ i:before {
 .challence_tab_area .nav.nav-tabs li a {
     padding: 0px 45px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     font-weight: bold;
@@ -5196,7 +5230,7 @@ i:before {
 .welcome_c_left .welcome_quality h4 {
     color: #06244b;
     font-size: 22px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .66px;
     padding-bottom: 12px;
@@ -5271,7 +5305,7 @@ i:before {
 .consult_plus_inner .consult_plus_item .media .media-body h4 {
     font-size: 16px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .48px;
@@ -5445,7 +5479,7 @@ i:before {
     color: #fff;
     font-size: 14px;
     text-transform: uppercase;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .42px;
     font-weight: bold;
     opacity: 0;
@@ -5506,7 +5540,7 @@ i:before {
     font-size: 15px;
     line-height: 60px;
     display: inline-block;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .30px;
     text-transform: uppercase;
     font-weight: bold;
@@ -5549,7 +5583,7 @@ i:before {
 .black_cases_area.white_cases .cases_all h4 {
     font-size: 28px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .84px;
@@ -5571,7 +5605,7 @@ i:before {
     font-size: 16px;
     text-transform: uppercase;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .32px;
     padding: 30px 0px 10px 0px;
@@ -5621,7 +5655,7 @@ i:before {
     font-size: 28px;
     color: #fff;
     font-weight: bold;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     text-transform: uppercase;
     letter-spacing: .84px;
     padding-bottom: 20px;
@@ -5707,7 +5741,7 @@ i:before {
 
 .home_cases_menu .pull-right a {
     font-size: 15px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     letter-spacing: .45px;
     color: #06244b;
@@ -5828,7 +5862,7 @@ i:before {
     color: #fff;
     font-size: 20px;
     text-transform: uppercase;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     line-height: 180px;
 }
@@ -5848,7 +5882,7 @@ i:before {
 
 .workers_item .workers_img:before {
     content: "";
-    background: rgba(24, 186, 96, 0.9);
+    background: #e7783c88;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -5895,7 +5929,7 @@ i:before {
 .workers_item h4 {
     font-size: 14px;
     color: #06244b;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     padding: 25px 0px 8px 0px;
@@ -5961,7 +5995,7 @@ i:before {
     letter-spacing: .84px;
     text-transform: uppercase;
     font-weight: bold;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .what_customer_inner {
@@ -6040,7 +6074,7 @@ i:before {
 .what_customer_inner .what_customer_item h4 {
     font-size: 18px;
     color: #fff;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .54px;
     padding-bottom: 15px;
 }
@@ -6099,7 +6133,7 @@ i:before {
 
 .testi_page_item .media .media-body h4 {
     font-size: 18px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #148dbf;
     padding-bottom: 10px;
@@ -6178,7 +6212,7 @@ i:before {
     font-size: 28px;
     line-height: 35px;
     color: #fff;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     letter-spacing: .84px;
     text-transform: uppercase;
     font-weight: bold;
@@ -6298,12 +6332,12 @@ i:before {
     font-size: 24px;
     line-height: 34px;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     padding-top: 60px;
 }
 
 .coming-header {
-    font: 700 70px "Montserrat", sans-serif;
+    font: 700 70px "Quicksand", sans-serif;
     text-transform: capitalize;
 }
 
@@ -6320,7 +6354,7 @@ i:before {
     float: left;
     padding: 33px 0px;
     border-radius: 50%;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: 700;
     color: #148dbf;
     margin: 0px 15px;
@@ -6348,7 +6382,7 @@ i:before {
     border: 0px;
     color: #565656;
     padding-left: 30px;
-    font: 600 17px/75px "Montserrat", sans-serif;
+    font: 600 17px/75px "Quicksand", sans-serif;
     letter-spacing: 0.26px;
     background: #fff;
     height: auto;
@@ -6358,22 +6392,22 @@ i:before {
 
 .c-search-form .input-group .form-control.placeholder {
     color: #565656;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .c-search-form .input-group .form-control:-moz-placeholder {
     color: #565656;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .c-search-form .input-group .form-control::-moz-placeholder {
     color: #565656;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .c-search-form .input-group .form-control::-webkit-input-placeholder {
     color: #565656;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .c-search-form .input-group .input-group-addon {
@@ -6385,7 +6419,7 @@ i:before {
 }
 
 .c-search-form .input-group .input-group-addon button {
-    font: 600 22px/75px "Montserrat", sans-serif;
+    font: 600 22px/75px "Quicksand", sans-serif;
     letter-spacing: 0.44px;
     padding: 0px 36px;
     border: 0px;
@@ -6430,7 +6464,7 @@ i:before {
 .f_title h3 {
     font-size: 16px;
     color: #fff;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     opacity: .6;
     letter-spacing: .32px;
