@@ -6652,3 +6652,7 @@ i:before {
 
 
 /*# sourceMappingURL=style.css.map */
+
+.img-circle {
+    max-width: 100%;
+}
